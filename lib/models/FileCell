@@ -1,0 +1,10 @@
+class FileCell{
+  bool visTransfer;
+  bool toTransfer;
+  Reference fileRef;
+}
+class Month{
+  String name;
+  bool visTransfer;
+  List<FileCell>
+}
